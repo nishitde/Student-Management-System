@@ -1,0 +1,5 @@
+Input the following Query in Oracle:
+
+CREATE TABLE Student_New (rno int PRIMARY KEY, name varchar2(15), mark int);
+
+Note: Since, the table created might be empty, so it may cause errors while execution. Input the data from 'database.csv' file or clear the 'database.csv' file and start fresh.
